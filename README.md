@@ -1,4 +1,4 @@
-# NLP-assisgnment
+# NLP Assessment
 
 🗓️ Day 1 – Web Scraping
 Concepts: Web Scraping • BeautifulSoup • find_all() • find() • get() • .text • append() • split() • Python Lists • Loops • String Manipulation • Data Extraction • Pandas DataFrame
